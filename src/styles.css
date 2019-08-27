@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container > div {
+  width: 100%;
+  border: 1px solid grey;
+  margin: 5px;
+}
+
+.flex-container > div > img {
+  width: 90%;
+  border: 1px solid grey;
+  margin: 10px;
+}
+
+.flex-container > div > h4 {
+  text-align: center;
+}
+
+.flex-container > div > p {
+  margin: 5px;
+  cursor: pointer;
+}

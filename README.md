@@ -1,2 +1,0 @@
-# reactProfileApp
-Created with CodeSandbox
