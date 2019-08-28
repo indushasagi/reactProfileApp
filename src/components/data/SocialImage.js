@@ -8,21 +8,24 @@ const Data = [
     title: "Example React Application",
     description:
       "A React App that I built involving JS and Core web dev concepts!",
-    image: project1
+    image: project1,
+    likeCount: 1
   },
   {
     id: 2,
     title: "My API",
     description:
       "A React App that I built involving JS and Core web dev concepts!",
-    image: project2
+    image: project2,
+    likeCount: 1
   },
   {
     id: 3,
     title: "Final React Application",
     description:
       "A React App that I built involving JS and Core web dev concepts!",
-    image: project3
+    image: project3,
+    likeCount: 1
   }
 ];
 
